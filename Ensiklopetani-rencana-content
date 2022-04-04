@@ -1,6 +1,9 @@
 RENCANA KONTEN
 -Design Mock up
 *Bootstrap
+  ^angular
+  ^react
 -Design Interface
 *detail materialize
+  ^laravel
 -Fundamental Data Structure
