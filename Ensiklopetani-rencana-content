@@ -1,6 +1,9 @@
 RENCANA KONTEN
 -Design Mock up
 *Bootstrap
+  ^vue
+  ^react
 -Design Interface
 *detail materialize
 -Fundamental Data Structure
+-python
