@@ -2,3 +2,4 @@ BGSTYBD RESOLUTION
 - make a company profile
 - make a five page web company profile
 - with materialize
+- combine with bootstrap
